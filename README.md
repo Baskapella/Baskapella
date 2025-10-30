@@ -1,7 +1,7 @@
 # Hi, I'm Basit! 👋
 ### Offensive Security Engineer | Penetration Tester | VAPT Specialist | QA Tester
 
-Passionate about offensive security, Vulnerability Assessment and Penetration Testing (VAPT). I systematically identify, validate, and remediate vulnerabilities across web applications, cloud environments, Active Directory networks, and internal systems. My work bridges offensive security, penetration testing, and quality assurance — blending creativity, analytical thinking, and precision.
+Passionate about offensive security, Vulnerability Assessment and Penetration Testing (VAPT). I systematically identify, validate, and remediate vulnerabilities across web applications, cloud environments, Active Directory networks, and internal systems. My work bridges offensive security, penetration testing, and quality assurance blending creativity, analytical thinking, and precision.
 
 ---
 
@@ -13,13 +13,13 @@ I specialize in testing web applications, cloud environments, Active Directory n
 ---
 
 ## 🧠 Skills & Tools
-**Core Areas:** Penetration Testing · Vulnerability Assessment (VAPT) · Cloud Security · Active Directory Attacks · Red Teaming · QA Automation · **Security Assessment & Analysis**  
+**Core Areas:** Penetration Testing · Vulnerability Assessment (VAPT) · Cloud Security · Active Directory Attacks · Red Teaming · QA Automation · 
 
 **Tools & Frameworks (grouped):**
 
-- **Active Directory / Enterprise:** BloodHound / SharpHound · CrackMapExec (CME) · PowerView · Impacket (several scripts: wmiexec, psexec, etc.) · Rubeus · Mimikatz · PowerSploit · ADExplorer / ADRecon · LDAP tools · GPO/ACL enumeration scripts
+- **Active Directory / Enterprise:** BloodHound / SharpHound · CrackMapExec (CME) · PowerView · Impacket (several scripts: wmiexec, psexec, etc.) · Mimikatz · 
 
-- **Web & API Security:** Burp Suite · OWASP ZAP · Nikto · Sublist3r · Subfinder · Wayback tooling · sqlmap · Postman · HTTPie
+- **Web & API Security:** Burp Suite · OWASP ZAP · Nikto · Sublist3r · sqlmap · 
 
 - **Discovery & Bruteforce:** Nmap · Masscan · Hydra · Medusa · Gobuster · DirBuster · GoBuster · Amass · crt.sh / cert enumeration
 
