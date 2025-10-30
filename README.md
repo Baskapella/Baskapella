@@ -85,6 +85,9 @@ I specialize in testing web applications, cloud environments, Active Directory n
 
 </details>
 
+### 🔹 Local Windows Post‑Exploitation Lab — Payload & Privilege Escalation  
+Generated a payload with msfvenom, gained a session on a Windows target, performed privilege escalation and credential harvesting in a controlled lab environment.
+
 ### 🔹 Metasploitable 2 Exploitation — vsFTPd Backdoor
 [Read Blog](https://your-blog-link-or-repo.com)  
 System exploitation walkthrough demonstrating discovery → exploit → post-exploitation validation.
