@@ -39,19 +39,12 @@ I specialize in testing web applications, cloud environments, Active Directory n
 
 ## 🧩 Cybersecurity Projects
 
-### 🔹 Cloud Security Policy for Hybrid Environment
-[Read Blog](https://your-blog-link-or-repo.com)  
-Developed security documentation and implementation strategies focused on encryption, access control, and CSPM (Cloud Security Posture Management) best practices.
-
-### 🔹 API Security Testing using Burp Suite
-[Read Blog](https://your-blog-link-or-repo.com)  
-Fuzzing and parameter manipulation to identify authentication and authorization flaws in RESTful APIs.
-
 ### 🔹 Active Directory Labs
 <details>
 <summary>Click to expand AD Labs</summary>
 
-1. **[AD Enumeration Lab](https://your-blog-link-or-repo.com)**  
+1. **[IPv6 Attacks and LDAPS Relay (MITM6 + NTLMRelayX)
+](https://baskapella.blogspot.com/2025/10/ipv6-attacks-and-ldaps-relay-mitm6.html)**  
    Executed privilege escalation and enumeration techniques to uncover misconfigured permissions in a simulated AD network.
 
 2. **[BloodHound Mapping](https://your-blog-link-or-repo.com)**  
