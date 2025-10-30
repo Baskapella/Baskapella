@@ -43,24 +43,23 @@ I specialize in testing web applications, cloud environments, Active Directory n
 <details>
 <summary>Click to expand AD Labs</summary>
 
-1. **[IPv6 Attacks and LDAPS Relay (MITM6 + NTLMRelayX)
-](https://baskapella.blogspot.com/2025/10/ipv6-attacks-and-ldaps-relay-mitm6.html)**  
-   Executed privilege escalation and enumeration techniques to uncover misconfigured permissions in a simulated AD network.
+1. **[SMB Relay Attack in AD Lab (Step-by-Step)](https://baskapella.blogspot.com/2025/10/smb-relay-attack-in-ad-lab-step-by-step.html)**  
+   Examines SMB relay techniques in an AD environment, observable artifacts, and defenses to prevent relay-based authentication abuse.
 
-2. **[Active Directory Enumeration After Gaining Shell Access via WMIexec (Step-by-Step)
-](https://baskapella.blogspot.com/2025/10/active-directory-enumeration-after.html)**  
-   Mapping relationships and attack paths using BloodHound queries.
+2. **[IPv6 Attacks and LDAPS Relay (MITM6 + NTLMRelayX)](https://baskapella.blogspot.com/2025/10/ipv6-attacks-and-ldaps-relay-mitm6.html)**  
+   Analyses IPv6-based relay methods and their effect on AD authentication, plus detection tips and mitigation strategies.
 
-3. **[Active Directory Post-Compromise Lab – Using CrackMapExec, Hash Dumping, and Pass-the-Hash Authentication](https://baskapella.blogspot.com/2025/10/active-directory-post-compromise-lab.html)**  
-   Identified service accounts and performed offline Kerberoasting.
+3. **[Active Directory Enumeration After Gaining Shell Access via WMIexec (Step-by-Step)](https://baskapella.blogspot.com/2025/10/active-directory-enumeration-after.html)**  
+   Post-compromise enumeration checklist and BloodHound-driven mapping to highlight likely attack paths and weak configurations.
 
-4. **[Post-Exploitation: Token Impersonation Lab Report
-](https://baskapella.blogspot.com/2025/10/post-exploitation-token-impersonation.html)**  
-   Abused weak ACLs to escalate privileges from service account to domain admin.
+4. **[Active Directory Post-Compromise Lab – Using CrackMapExec, Hash Dumping, and Pass-the-Hash Authentication](https://baskapella.blogspot.com/2025/10/active-directory-post-compromise-lab.html)**  
+   Lab walkthrough assessing credential exposure, lateral-movement indicators, and practical remediation recommendations.
 
-5. **[Kerberoasting Attack - Post exploitation attack
-](https://baskapella.blogspot.com/2025/10/kerberoasting-attack-post-exploitation.html)**  
-   Identified and abused writable GPOs for persistence and lateral movement.
+5. **[Post-Exploitation: Token Impersonation Lab Report](https://baskapella.blogspot.com/2025/10/post-exploitation-token-impersonation.html)**  
+   Analysis of token impersonation techniques, artifacts to monitor, and controls to reduce impersonation risk.
+
+6. **[Kerberoasting Attack - Post exploitation attack](https://baskapella.blogspot.com/2025/10/kerberoasting-attack-post-exploitation.html)**  
+   Explains the Kerberoasting threat model, common artifacts, detection opportunities, and hardening steps for service accounts.
 
 
 </details>
