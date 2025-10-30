@@ -21,17 +21,17 @@ I specialize in testing web applications, cloud environments, Active Directory n
 
 - **Web & API Security:** Burp Suite · OWASP ZAP · Nikto · Sublist3r · sqlmap · 
 
-- **Discovery & Bruteforce:** Nmap · Masscan · Hydra · Medusa · Gobuster · DirBuster · GoBuster · Amass · crt.sh / cert enumeration
+- **Discovery & Bruteforce:** Nmap · Masscan · Hydra · Medusa · Gobuster · DirBuster · GoBuster · Amass · 
 
-- **Exploitation & Automation Helpers:** Metasploit Framework · Empire (when relevant) · custom Python scripts (API fuzzing tools, small automation helpers)
+- **Exploitation & Automation Helpers:** Metasploit Framework · 
 
-- **Forensics & Analysis:** Autopsy · FTK Imager · Volatility (basic) · log analysis techniques
-
+- **Forensics & Analysis:** Autopsy · FTK Imager ·
+  
 - **Recon & OSINT:** Google Dorking · GitHub/OSINT enumeration · whois / DNS reconnaissance
 
-- **Protocols & Network Tools:** Hping3 · Wireshark (packet analysis basics) · tcpdump
+- **Protocols & Network Tools:** Hping3 · Wireshark (packet analysis basics) · 
 
-- **Labs & Practice Platforms:** TryHackMe · PortSwigger Labs · local VM labs (VirtualBox / VMware)
+- **Labs & Practice Platforms:** TryHackMe · PortSwigger Labs · local VM labs (VMware) · Linux Foundation · YouTube ·
 
 **Languages & Scripting:** Bash · Python · HTML · CSS
 
