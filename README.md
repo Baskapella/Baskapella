@@ -47,20 +47,21 @@ I specialize in testing web applications, cloud environments, Active Directory n
 ](https://baskapella.blogspot.com/2025/10/ipv6-attacks-and-ldaps-relay-mitm6.html)**  
    Executed privilege escalation and enumeration techniques to uncover misconfigured permissions in a simulated AD network.
 
-2. **[BloodHound Mapping](https://your-blog-link-or-repo.com)**  
+2. **[Active Directory Enumeration After Gaining Shell Access via WMIexec (Step-by-Step)
+](https://baskapella.blogspot.com/2025/10/active-directory-enumeration-after.html)**  
    Mapping relationships and attack paths using BloodHound queries.
 
-3. **[Kerberoast Exploitation](https://your-blog-link-or-repo.com)**  
+3. **[Active Directory Post-Compromise Lab – Using CrackMapExec, Hash Dumping, and Pass-the-Hash Authentication](https://baskapella.blogspot.com/2025/10/active-directory-post-compromise-lab.html)**  
    Identified service accounts and performed offline Kerberoasting.
 
-4. **[Privilege Escalation via Misconfigured ACLs](https://your-blog-link-or-repo.com)**  
+4. **[Post-Exploitation: Token Impersonation Lab Report
+](https://baskapella.blogspot.com/2025/10/post-exploitation-token-impersonation.html)**  
    Abused weak ACLs to escalate privileges from service account to domain admin.
 
-5. **[Exploiting Misconfigured GPOs](https://your-blog-link-or-repo.com)**  
+5. **[Kerberoasting Attack - Post exploitation attack
+](https://baskapella.blogspot.com/2025/10/kerberoasting-attack-post-exploitation.html)**  
    Identified and abused writable GPOs for persistence and lateral movement.
 
-6. **[AD Hands-on Lab — Full Report](https://your-blog-link-or-repo.com)**  
-   Complete lab report: enumeration → exploitation → remediation suggestions.
 
 </details>
 
