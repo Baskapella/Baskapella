@@ -68,10 +68,10 @@ I specialize in testing web applications, cloud environments, Active Directory n
 <details>
 <summary>Click to expand OWASP Labs</summary>
 
-1. **[Broken Access Control - GraphQL](https://your-blog-link-or-repo.com)**  
+1. **[Exploring A01: Broken Access Control – GraphQL Introspection Misconfiguration](https://baskapella.blogspot.com/2025/10/exploring-a01-broken-access-control.html))**  
    Discovered administrative users through GraphQL introspection and privilege abuse.
 
-2. **[SQL Injection Lab](https://your-blog-link-or-repo.com)**  
+2. **[Exploring A01: Broken Access Control – Insecure Direct Object References (IDOR) Vulnerability](https://your-blog-link-or-repo.com](https://baskapella.blogspot.com/2025/10/insecure-direct-object-references-idor.html))**  
    Demonstrated blind and error-based SQLi with remediation steps.
 
 3. **[XSS Lab](https://your-blog-link-or-repo.com)**  
