@@ -135,10 +135,10 @@ Python-based automation script built to speed up parameter fuzzing in API assess
 ---
 
 ## 🌐 Connect With Me
-📧 **Email:** your.email@example.com  
+📧 **Email:** baskapella11@gmail.com 
 💼 **LinkedIn:** [linkedin](https://linkedin.com/in/basit-hassan-7a9aba35b)  
-🧠 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
 
 ---
 
-### ⚔️ “Security isn’t a product — it’s a continuous practice of learning, breaking, and rebuilding stronger.”
+### ⚔️ “Security isn’t a product  it’s a continuous practice of learning, breaking, and rebuilding stronger.”
