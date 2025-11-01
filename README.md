@@ -129,10 +129,9 @@ Python-based automation script built to speed up parameter fuzzing in API assess
 ---
 
 ## 🚀 Achievements
-- Built and documented multiple penetration testing labs (Web, AD, Cloud).  
-- Earned IBM and Cisco cybersecurity badges.  
-- Led academic group projects and developed automation scripts for scanning tasks.
-
+- **Executive Member – CYSSSA (Cyber Security Science Students’ Association, LAUTECH) – 2024:**  
+  Contributed to building a cybersecurity community that promotes awareness, skill development, and knowledge sharing among students.  
+- **Developed and documented multiple penetration testing labs** across Web, Active Directory, and Cloud environments.
 ---
 
 ## 🌐 Connect With Me
