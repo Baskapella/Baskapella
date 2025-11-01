@@ -136,7 +136,7 @@ Python-based automation script built to speed up parameter fuzzing in API assess
 
 ## 🌐 Connect With Me
 📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+💼 **LinkedIn:** [linkedin](https://linkedin.com/in/basit-hassan-7a9aba35b)  
 🧠 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
 
 ---
