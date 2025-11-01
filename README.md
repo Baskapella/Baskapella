@@ -99,18 +99,29 @@ Python-based automation script built to speed up parameter fuzzing in API assess
 ---
 
 ## 💡 School Projects (Group Lead)
-**🔹 CRM System for Small Business** — Led design and system analysis; focused on requirements and security.  
-**🔹 AI-Based Password Strength Checker** — Built entropy models and weak-pattern detection.  
-**🔹 School Transportation Management System** — Designed requirements, process flow, and UI prototype.
+
+**🔹 CRM System for Small Business** — Led the design and analysis phase, created the process flow and UI prototype using **Figma**, and focused on requirements specification and system security.
+
+**🔹 AI-Based Password Strength Checker** — Developed an **AI/ML-powered password evaluator** that analyzes password entropy and detects weak patterns. When a password is weak, the system provides intelligent example suggestions to improve strength.
+
+**🔹 Design of a Virtual Memory with Paging and Segmentation** — Implemented memory management in **C**, simulating paging and segmentation to optimize allocation and reduce fragmentation.
+
+**🔹 USB Monitoring & Protection Tool (Python)** — Built a Python-based monitoring function that, when authorized and running in a controlled environment, can detect USB device events and programmatically disable USB access on a specific endpoint to reduce data-exfiltration risk. Documented design decisions, use-cases, and safe deployment considerations (intended for defensive endpoint hardening in lab/managed environments).
+---
+
+## 🏅 Certifications  
+- **Fortinet:** Fortinet Certified Fundamentals (FCF) in Cybersecurity  
+- **Fortinet:** FCF – Introduction to the Threat Landscape  
+- **Fortinet:** FCF – Getting Started in Cybersecurity 3.0  
+- **IBM:** Cybersecurity Fundamentals *(2025)*  
+- **Cisco Networking Academy:** Introduction to Cybersecurity  
+- **IBM:** HTML & CSS  
 
 ---
 
-## 🏅 Certifications
-- **IBM:** Introduction to Cybersecurity  
-- **Cisco:** Introduction to Cybersecurity  
-- **Cisco:** Ethical Hacking *(In Progress)*  
-- **IBM:** Code the Future – HTML & CSS  
-- **TryHackMe & PortSwigger Labs:** Web Security Labs & write-ups
+## 📜 Certificates of Completion  
+- **IBM CIC Tech Talent Series:** Introduction to Cybersecurity *(2024)*  
+- **Cisco Networking Academy:** Ethical Hacking *(In Progress)*  
 
 ---
 
