@@ -100,13 +100,17 @@ Python-based automation script built to speed up parameter fuzzing in API assess
 
 ## 💡 School Projects (Group Lead)
 
-**🔹 CRM System for Small Business** — Led the design and analysis phase, created the process flow and UI prototype using **Figma**, and focused on requirements specification and system security.
+1. **[CRM System for Small Business]()**  
+   Led the design and analysis phase, created the process flow and UI prototype using **Figma**, and focused on requirements specification and system security.
 
-**🔹 AI-Based Password Strength Checker** — Developed an **AI/ML-powered password evaluator** that analyzes password entropy and detects weak patterns. When a password is weak, the system provides intelligent example suggestions to improve strength.
+2. **[AI-Based Password Strength Checker]()**  
+   Developed an **AI/ML-powered password evaluator** that analyzes password entropy and detects weak patterns. When a password is weak, the system provides intelligent example suggestions to improve strength.
 
-**🔹 Design of a Virtual Memory with Paging and Segmentation** — Implemented memory management in **C**, simulating paging and segmentation to optimize allocation and reduce fragmentation.
+3. **[Design of a Virtual Memory with Paging and Segmentation]()**  
+   Implemented memory management in **C**, simulating paging and segmentation to optimize allocation and reduce fragmentation.
 
-**🔹 USB Monitoring & Protection Tool (Python)** — Built a Python-based monitoring function that, when authorized and running in a controlled environment, can detect USB device events and programmatically disable USB access on a specific endpoint to reduce data-exfiltration risk. Documented design decisions, use-cases, and safe deployment considerations (intended for defensive endpoint hardening in lab/managed environments).
+4. **[USB Monitoring & Protection Tool (Python)]()**  
+   Built a Python-based monitoring function that, when authorized and running in a controlled environment, can detect USB device events and programmatically disable USB access on a specific endpoint to reduce data-exfiltration risk. Documented design decisions, use cases, and safe deployment considerations *(intended for defensive endpoint hardening in lab/managed environments).*
 ---
 
 ## 🏅 Certifications  
